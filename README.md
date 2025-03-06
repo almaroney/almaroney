@@ -5,8 +5,8 @@ My concentration is in Biostatistics and Data Science, and I'm always looking to
 apply my previous experiences and training in new ways!
 - 👀 I’m interested in how data can be visualized and communicated effectively to diverse audiences.
 - 🌱 I’m currently learning about resampling methods and machine learning techniques!
-- 📫 How to reach me:
-- 😄 My hobbies: reading & writing, long walks, cooking, exploring new places, bird-watching
+- 📫 How to reach me: send an email to almaroney@gmail.com
+- 😄 My hobbies: reading & writing, cooking, exploring new places, and bird-watching
  
 
 <!---
